@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.class
+*.dll
+*.exe
+
+# Ignore sensitive configs
+.env
+config.js
+
+# Ignore IDE settings
+.vscode/
+.idea/
